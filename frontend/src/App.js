@@ -29,7 +29,7 @@ function App() {
                 <a href="signin">Sign in</a>
                 <a href="cart.html">dCart </a>
             </div>
-        </header>f
+        </header>
 
         <aside className="sidebar">
             <h3>Shopping Categories</h3>
