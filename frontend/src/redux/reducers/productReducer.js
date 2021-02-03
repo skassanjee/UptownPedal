@@ -14,4 +14,4 @@ function productListReducer(state = { products: [] }, action){
     }
 }
 
-export default productListReducer
+export { productListReducer } 
